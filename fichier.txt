@@ -1,0 +1,1 @@
+Cette ligne de commande va supprimer de la branche principale votre dernier commit.  Le HEAD^ indique que c'est bien le dernier commit que nous voulons supprimer. L’historique sera changé, les fichiers seront supprimés.ô
